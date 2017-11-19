@@ -7,3 +7,5 @@ Allow ondemand config if needed.
 - Supports HaProxy
 - Supports Varnish
 - Supports node-proxy
+# TODO:
+- Support for cloudprovider lb solutions.
